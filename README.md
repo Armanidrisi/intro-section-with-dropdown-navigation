@@ -19,7 +19,7 @@ This is a solution to the [Intro section with dropdown navigation challenge on F
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [here](https://armanidrisi.github.io/intro-section-with-dropdown-navigation)
 
 ## My process
 
@@ -29,6 +29,7 @@ This is a solution to the [Intro section with dropdown navigation challenge on F
 - CSS custom properties
 - Flexbox
 - and more
+
 ## Author
 
 - Website - [Arman Idrisi](https://arman-idrisi.netlify.app)
